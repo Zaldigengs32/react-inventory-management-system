@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 React Inventory Management System
+# React Inventory Management System
 
 ![React](https://img.shields.io/badge/React-18.2.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-5.1.4-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -14,36 +14,36 @@
 
 ---
 
-## ✨ Fitur Unggulan
+## Fitur Unggulan
 
 | Fitur | Deskripsi |
 |-------|-----------|
-| 🏠 **Dashboard** | Overview statistik & metrik utama secara real-time |
-| 📦 **Inventory Management** | Kelola data aset & non-aset |
-| ✅ **Approval System** | Alur persetujuan multi-level |
-| 🔄 **Mutasi Aset** | Pencatatan mutasi & perpindahan aset |
-| 📋 **Stock Opname** | Pengecekan & rekonsiliasi stok fisik |
-| 🗃️ **DUPAT** | Manajemen daftar usulan penghapusan aset |
-| 📅 **Kalender** | Penjadwalan & event management |
-| 👥 **Manajemen Tim** | Kelola data anggota & user |
-| 📊 **Visualisasi Data** | Bar, Pie, Line, Geography chart (Nivo + ApexCharts) |
-| 📄 **Export Laporan** | Export data ke PDF & Excel |
-| 🌙 **Dark / Light Mode** | Tema gelap & terang |
+| **Dashboard** | Overview statistik & metrik utama secara real-time |
+| **Inventory Management** | Kelola data aset & non-aset |
+| **Approval System** | Alur persetujuan multi-level |
+| **Mutasi Aset** | Pencatatan mutasi & perpindahan aset |
+| **Stock Opname** | Pengecekan & rekonsiliasi stok fisik |
+| **DUPAT** | Manajemen daftar usulan penghapusan aset |
+| **Kalender** | Penjadwalan & event management |
+| **Manajemen Tim** | Kelola data anggota & user |
+| **Visualisasi Data** | Bar, Pie, Line, Geography chart (Nivo + ApexCharts) |
+| **Export Laporan** | Export data ke PDF & Excel |
+| **Dark / Light Mode** | Tema gelap & terang |
 
 ---
 
-## 👤 Multi-Role Access
+## Multi-Role Access
 
 | Role | Akses |
 |------|-------|
-| 🛡️ **Admin** | Full akses semua fitur & dashboard utama |
-| 🔧 **Koordinator UPT** | Dashboard, inventory, approval, mutasi, stock opname |
-| 🔬 **PIC Lab** | Inventory lab, stock opname lab |
-| 📦 **PIC Non-Asset** | Inventory non-aset, stock opname non-aset |
+| **Admin** | Full akses semua fitur & dashboard utama |
+| **Koordinator UPT** | Dashboard, inventory, approval, mutasi, stock opname |
+| **PIC Lab** | Inventory lab, stock opname lab |
+| **PIC Non-Asset** | Inventory non-aset, stock opname non-aset |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** React 18 + Vite
 - **UI Library:** Material UI (MUI) v5
@@ -58,7 +58,7 @@
 
 ---
 
-## 🚀 Cara Menjalankan
+## Cara Menjalankan
 
 ### Prerequisites
 - Node.js 18+
@@ -87,7 +87,7 @@ npm run build
 
 ---
 
-## 📁 Struktur Project
+## Struktur Project
 
 ```
 src/
